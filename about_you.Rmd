@@ -1,6 +1,6 @@
 ---
 title: "First Knit"
-author: "Your Name"
+author: "Sakana Uthayasegar"
 output: 
   html_document:
     number_sections: true
@@ -17,7 +17,7 @@ Here are just a few questions so I can get to know you and so you can get practi
 Where did you attend High School, and did you graduate? Compare english class to math, is one easier for you than the other? Finally which subject did you do the best in? Your answer should have at least two sentences devoted to each question.  
   
 ### my answer     
-  
+I am currently attending Lancaster High School.I graduate in the year 2025. Compared to english, I find math easier. I feel that I am the best at math. 
 
      
 
@@ -26,26 +26,21 @@ Where did you attend High School, and did you graduate? Compare english class to
  For this class  you need a computer you can use at home.  So, what kind is it (windows, Apple, Linux)?  On a scale of 1 to 10, where 1 is a total dummy (doesn't know a mouse from a keyboard) and 10 is a complete geek (knows computer stuff in and out) How do you rate yourself?  You also need to have have internet access. How is your connection to the internet where you live?
 
 ### my answer   
-  
-   
+  I use a windows operated device and I rate it a 7 out of 10. The internet where I live is pretty reliable. 
 
 ## Others and You?   
 What name do you prefer to be called by your classmates and instructor, if your buddys call you something but you want people in the class to call you something else - what would that be? 
 
 ### my answer     
-  
-   
- 
-
-
-
+I preferred to be called Sakana by my classmates and instructor. My buddys call me Sakana as well.  
 
 ## Aspirations?   
 What do you want to achieve in life?  What college subject do you think would be of the greatest interest to you? What degree or certificate are you trying to achieve?
 
 ### my answer     
-  
+I would like to attend UCLA and major in biology. I am trying to acheive a bachelor's and attend medical school. 
    
+
  
 
 
@@ -55,7 +50,7 @@ What do you want to achieve in life?  What college subject do you think would be
 Have you ever gone to foreign countries, if so which ones, if not Where might you go in the future?  Have you ever been in the military, if so which branch, if not which branch would you choose if you got drafted, and why?
 
 ### my answer     
-  
+I moved from Sri Lanka when I was 9 years old. Other countries I have been to are Canada, Hong Kong, India and Mexico.   
    
   
 
@@ -68,7 +63,7 @@ What grade do you need to attain in stats to not upset your future plans, What i
  
 
 ### my answer     
-  
+I am taking Math 115 to learn basic Statistics because I have always found Statistics very fascinating. I am aiming to attain an A in this class.     
    
  
 
